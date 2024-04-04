@@ -113,15 +113,3 @@
     gap: 0.5rem;
    }
   }
-
-.red-border{
-    border: solid red 1px;
-}
-
-.black-border{
-    border: solid black 1px;
-}
-
-.blue-border{
-    border: solid blue 1px;
-}
