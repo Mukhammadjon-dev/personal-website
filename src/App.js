@@ -11,6 +11,7 @@ import Qualification from './components/qualification/Qualification';
 import Testimonial from './components/testimonial/Testimonial';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
+import ScrollUp from './components/scrollUp/ScrollUp';
 
 const App = ()=> {
   return (
@@ -24,8 +25,10 @@ const App = ()=> {
   <Qualification/>
   <Testimonial/>
   <Contact/>
-  <Footer/>
+  
   </main>
+  <Footer/>
+  <ScrollUp/>
   </>
   );
 }
