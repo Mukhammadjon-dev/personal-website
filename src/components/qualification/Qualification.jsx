@@ -30,7 +30,7 @@ const Qualification = () =>{
             <div className="qualification__sections">
                 <div className={toggleState === 1 ? "qualification__content qualification__content-active" : "qualification__content"}>
                     
-                    <div className="qualification__data red-border">
+                    <div className="qualification__data">
                         <div>
                             <h3 className="qualification__title">Education</h3>
                             <span className="qualification__subtitle">University Level</span>
