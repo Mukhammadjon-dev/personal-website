@@ -10,7 +10,7 @@ const ScrollUp = () =>{
     })
 
     return(
-        <a href="#" rel="noreferrer" className="scrollup">
+        <a href="/#" rel="noreferrer" className="scrollup">
             <i className="uil uil-arrow-up scrollup__icon"></i>
         </a>
     )
