@@ -97,7 +97,7 @@
     row-gap: 0.75rem;
 }
 
-.service__modal-service{
+.services__modal-service{
     display: flex;
     align-items: center;
     column-gap: 0.5rem;
