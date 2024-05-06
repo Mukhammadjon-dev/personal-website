@@ -13,12 +13,12 @@ export const Data = [
         id: 2,
         image: Image2,
         title: "John Doe",
-        description: "A really good job done"
+        description: "A really good job done by building pixel-perfect componental dashboard. Thank you for you support"
     },
     {
         id:3,
         image: Image3,
         title: "John Doe",
-        description: "Well done job with good quality",
+        description: "You did well during the User Interface migration from Material UI version 0.0 to version 4.0",
     }
 ]
