@@ -1,39 +1,68 @@
-import Work1 from "../../assets/work1.jpg";
-import Work2 from "../../assets/work2.jpg";
-import Work3 from "../../assets/work3.jpg";
-import Work4 from "../../assets/work4.jpg";
-import Work5 from "../../assets/work5.jpg";
+import Tesla from "../../assets/Tesla.jpg";
+import Dasteam from "../../assets/dasteam.jpg";
+import Ecommerce from "../../assets/ecommerce.jpg";
+import Paybek from "../../assets/paybek.jpg";
+import Pizza from "../../assets/pizza.jpg";
+import Personal from "../../assets/personal.jpg";
+import RealEstate from "../../assets/real-estate.jpg";
+
 
 export const projectsData = [
     {
         id:1,
-        image:Work1,
-        title: "Landing Page",
-        category: "web"
+        image: Paybek,
+        title: "Paybek Website",
+        category: "web",
+        sourceLink: "https://paybek-webpage.netlify.app/",
+        codeSource: "https://github.com/Mukhammadjon-dev/Paybek-landing-webpage"
     },
     {
         id:2,
-        image:Work2,
-        title: "Website",
-        category: "app"
+        image: Personal,
+        title: "Personal Website",
+        category: "web",
+        sourceLink: "/#",
+        codeSource: "https://github.com/Mukhammadjon-dev/Personal_website",
     },
     {
         id:3,
-        image:Work3,
-        title: "Website",
-        category: "design"
+        image: RealEstate,
+        title: "Estate Tashkent Portal",
+        category: "No code app",
+        sourceLink: "https://muhammadjonnazarov.wixsite.com/estate-tashkent",
+        codeSource: "https://www.wix.com/"
     },
     {
         id:4,
-        image:Work4,
-        title: "Landing Page",
-        category: "app"
+        image: Tesla,
+        title: "Tesla Landing Page",
+        category: "Pet Projects",
+        sourceLink: "https://tesla-landing-website.netlify.app/",
+        codeSource: "https://github.com/Mukhammadjon-dev/Tesla-landing-page-clone"
     },
     {
         id:5,
-        image:Work5,
-        title: "Landing Page",
-        category: "web"
+        image: Dasteam,
+        title: "Das Team Consulting",
+        category: "web",
+        sourceLink: "https://das-team-consulting.netlify.app/",
+        codeSource: "https://github.com/Mukhammadjon-dev/Das-Team-LLC"
+    },
+    {
+        id:6,
+        image: Pizza,
+        title: "Pizza Restaurant",
+        category: "Pet Projects",
+        sourceLink: "https://pizza-restaurant-web.netlify.app/",
+        codeSource: "https://github.com/Mukhammadjon-dev/Pizza-restaurant-website"
+    },
+    {
+        id:7,
+        image: Ecommerce,
+        title: "Ecommerce",
+        category: "Pet Projects",
+        sourceLink: "https://ecommerce-webpage-w.netlify.app/",
+        codeSource: "https://github.com/Mukhammadjon-dev/e-commerce-website-"
     },
 ];
 
@@ -45,9 +74,9 @@ export const projectsNav=[
         name: "web"
     },
     {
-        name: "app"
+        name: "Pet Projects"
     },
     {
-        name: "design"
+        name: "No code App"
     },
 ]
