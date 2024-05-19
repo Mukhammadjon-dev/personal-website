@@ -22,7 +22,7 @@ export const projectsData = [
         title: "Personal Website",
         category: "web",
         sourceLink: "/#",
-        codeSource: "https://github.com/Mukhammadjon-dev/Personal_website",
+        codeSource: "https://github.com/Mukhammadjon-dev/personal-website",
     },
     {
         id:3,
