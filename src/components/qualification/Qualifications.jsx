@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./qualification.css";
 
-const Qualification = () =>{
+const Qualifications = () =>{
     const [toggleState, setToggleState] = useState(1);
     
     const toggleTab= (index) =>{
@@ -9,7 +9,7 @@ const Qualification = () =>{
     }
 
     return(
-        <section className="qualification section">
+        <section className="qualification section" id="qualifications">
             <h2 className="section__title">Qualification</h2>
             <span className="section__subtitle">My personnel journey</span>
 
@@ -167,4 +167,4 @@ const Qualification = () =>{
         </section>
     )
 }
-export default Qualification;
+export default Qualifications;

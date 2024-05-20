@@ -14,10 +14,14 @@
     color: var(--title-color);
     margin: 0 var(--mb-1);
     cursor: pointer;
+
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.5rem;
 }
 
 .qualification__button:hover {
-    color: var(--title-color-dark);
+    background-color: var(--title-color);
+    color: var(--container-color);
 }
 
 .qualification__icon{
@@ -27,6 +31,9 @@
 
 .qualification__active{
     color: var(--title-color-dark);
+
+    background-color: var(--title-color);
+    color: var(--container-color);
 }
 
 .qualification__sections{
