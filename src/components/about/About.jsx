@@ -3,7 +3,7 @@ import "./about.css";
 
 //import AboutImg from "../../assets/about.jpg";
 import AboutImg from "../../assets/NEW_1.jpg";
-import CV from "../../assets/CV_Nazarov_M.pdf";
+import CV from "../../assets/CV_M_Nazarov_as_May.pdf";
 import Info from "./Info";
 
 const About = () =>{

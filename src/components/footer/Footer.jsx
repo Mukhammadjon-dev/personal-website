@@ -22,17 +22,27 @@ const Footer=()=>{
                 </ul>
 
                 <div className="footer__social">
-                <a href="www.facebook.com" className="footer__social-link" target="_blank">
-                <i className="bx bxl-facebook"></i>
+
+                <a href="https://www.linkedin.com/in/mukhammadjon-nazarov/" className="footer__social-link" target="_blank" rel="noreferrer">
+                <i className="uil uil-linkedin-alt"></i>
             </a>
 
-            <a href="wwww.instagram.com" className="footer__social-link" target="_blank">
-                <i className="bx bxl-instagram"></i>
+            <a href="https://github.com/Mukhammadjon-dev" className="footer__social-link" target="_blank" rel="noreferrer">
+                <i className="uil uil-github-alt"></i>
             </a>
 
-            <a href="www.twitter.com" className="footer__social-link" target="_blank">
-                <i className="bx bxl-twitter"></i>
+            <a href="https://www.facebook.com/muhammadjon.nazarov.90" className="footer__social-link footer__social-icon" target="_blank">
+                <i className="uil uil-facebook-f"></i>
             </a>
+
+            <a href="https://twitter.com/n_mukhammadjon" className="footer__social-link footer__social-icon" target="_blank">
+                <i className="uil uil-twitter"></i>
+            </a>
+
+            <a href="https://t.me/Mukhammadjon_nazarov" className="footer__social-link" target="_blank" rel="noreferrer">
+                <i className="uil uil-telegram-alt"></i>
+            </a>
+
                 </div>
 
                 <span className="footer__copy"> All rights reserved</span>

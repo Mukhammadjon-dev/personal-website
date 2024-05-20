@@ -17,6 +17,9 @@
     margin-bottom: var(--mb-2);
 }
 
+.footer__social-icon{
+
+}
 .footer__link:hover {
     color: var(--title-color-dark);
 }
