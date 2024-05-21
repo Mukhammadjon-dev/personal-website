@@ -31,11 +31,11 @@ const Footer=()=>{
                 <i className="uil uil-github-alt"></i>
             </a>
 
-            <a href="https://www.facebook.com/muhammadjon.nazarov.90" className="footer__social-link footer__social-icon" target="_blank">
+            <a href="https://www.facebook.com/muhammadjon.nazarov.90" className="footer__social-link footer__social-icon" target="_blank" rel="noreferrer">
                 <i className="uil uil-facebook-f"></i>
             </a>
 
-            <a href="https://twitter.com/n_mukhammadjon" className="footer__social-link footer__social-icon" target="_blank">
+            <a href="https://twitter.com/n_mukhammadjon" className="footer__social-link footer__social-icon" target="_blank" rel="noreferrer">
                 <i className="uil uil-twitter"></i>
             </a>
 
