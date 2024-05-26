@@ -59,7 +59,8 @@
 }
 
 .home__img{
-    background: url(../../assets/profile_picture_2.jpeg);
+/*    background: url(../../assets/profile_picture_2.jpeg);*/
+    background: url(../../assets/photo.JPG);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
