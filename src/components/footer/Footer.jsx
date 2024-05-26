@@ -20,7 +20,7 @@ const Footer=()=>{
                         <a href="#skills" className="footer__link">Skills</a>
                     </li>
                 </ul>
-
+^12q34843
                 <div className="footer__social">
 
                 <a href="https://www.linkedin.com/in/mukhammadjon-nazarov/" className="footer__social-link" target="_blank" rel="noreferrer">
