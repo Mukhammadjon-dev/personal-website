@@ -18,9 +18,9 @@ const About = () =>{
                 <div className="about__data">
                     <Info />
 
-                    <p className="about__description">I am a Frontend Developer with 2 years of experience in React JS, JavaScript ES6, along with supplementary tools and libraries.
+                    <p className="about__description">I am a Frontend Developer with almost 2 years of experience in React JS, JavaScript ES6, along with supplementary tools and libraries.
 Skilled in the development of collaborative, cross-browser, and responsive landing pages, admin panels, and websites.
-Proficient in translating UI/UX designs into high-quality code, and achieving optimal performance and user experience.</p>
+I am proficient in translating UI/UX designs into high-quality code, and achieving optimal performance and user experience. I am also one of the recipient of DAAD ERP Scholarship.</p>
 
                     <a download="" href={CV} className="button button--flex"> Download CV
                     <svg
