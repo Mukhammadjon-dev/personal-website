@@ -48,22 +48,6 @@ export const projectsData = [
         sourceLink: "https://das-team-consulting.netlify.app/",
         codeSource: "https://github.com/Mukhammadjon-dev/Das-Team-LLC"
     },
-//    {
-//        id:6,
-//        image: Pizza,
-//        title: "Pizza Restaurant",
-//        category: "Pet Projects",
-//        sourceLink: "https://pizza-restaurant-web.netlify.app/",
-//        codeSource: "https://github.com/Mukhammadjon-dev/Pizza-restaurant-website"
-//    },
-//    {
-//        id:7,
-//        image: Ecommerce,
-//        title: "Ecommerce",
-//        category: "Pet Projects",
-//        sourceLink: "https://ecommerce-webpage-w.netlify.app/",
-//        codeSource: "https://github.com/Mukhammadjon-dev/e-commerce-website-"
-//    },
 ];
 
 export const projectsNav=[
