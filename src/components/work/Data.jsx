@@ -1,8 +1,6 @@
 import Tesla from "../../assets/Tesla.jpg";
 import Dasteam from "../../assets/dasteam.jpg";
-import Ecommerce from "../../assets/ecommerce.jpg";
 import Paybek from "../../assets/paybek.jpg";
-import Pizza from "../../assets/pizza.jpg";
 import Personal from "../../assets/personal.jpg";
 import RealEstate from "../../assets/real-estate.jpg";
 
