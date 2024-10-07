@@ -1,3 +1,6 @@
+import { cibGithub, cibLeetcode, cibLinkedinIn } from '@coreui/icons';
+import CIcon from '@coreui/icons-react';
+
 import React from "react";
 
 const Social = ()=>{
@@ -8,13 +11,16 @@ const Social = ()=>{
             </a>
 
             <a href="https://www.linkedin.com/in/mukhammadjon-nazarov/" className="home__social-icon" target="_blank" rel="noreferrer">
-                <i className="uil uil-linkedin-alt"></i>
+            <CIcon icon={cibLinkedinIn}/>
             </a>
 
             <a href="https://github.com/Mukhammadjon-dev" className="home__social-icon" target="_blank" rel="noreferrer">
-                <i className="uil uil-github-alt"></i>
+                <CIcon icon={cibGithub}/>
             </a>
 
+            <a href="https://leetcode.com/u/Mukhammadjon-dev/" className="home__social-icon" target="_blank" rel="noreferrer">
+                <CIcon icon={cibLeetcode}/>
+            </a>
 
         </div>
     )
